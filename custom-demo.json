@@ -2,7 +2,7 @@
   "edition": "custom-demo",
   "characters": [
     {
-      "name": "champonthis",
+      "name": "toto",
       "characterClass": "human",
       "edition": "custom-demo",
       "iconUrl": "https://lurkars.github.io/ghs-custom-demo/champonthis.svg",
