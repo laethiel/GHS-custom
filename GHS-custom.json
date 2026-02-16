@@ -48,6 +48,54 @@
       ],
       "availableSummons": [],
       "perks": []
+	},
+	    {
+      "name": "Root Whisperer",
+      "characterClass": "orchid",
+      "edition": "Laethiel",
+	  "color": "#9cc36a",
+      "iconUrl": "https://laethiel.github.io/GHS-custom/RWLogo.png",
+      "thumbnailUrl": "https://laethiel.github.io/GHS-custom/RW.png",
+      "stats": [
+        {
+          "level": 1,
+          "health": 6
+        },
+        {
+          "level": 2,
+          "health": 7
+        },
+        {
+          "level": 3,
+          "health": 8
+        },
+        {
+          "level": 4,
+          "health": 9
+        },
+        {
+          "level": 5,
+          "health": 10
+        },
+        {
+          "level": 6,
+          "health": 11
+        },
+        {
+          "level": 7,
+          "health": 12
+        },
+        {
+          "level": 8,
+          "health": 13
+        },
+        {
+          "level": 9,
+          "health": 14
+        }
+      ],
+      "availableSummons": [],
+      "perks": []
 	}
 	]
 }
