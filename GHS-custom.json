@@ -78,7 +78,7 @@
                 "effects": [
                   {
                     "type": "element",
-                    "value": "wind"
+                    "value": "air"
                   }
                 ]
               }
@@ -251,7 +251,7 @@
                 "effects": [
                   {
                     "type": "element",
-                    "value": "wind"
+                    "value": "air"
                   }
                 ]
               }
