@@ -1,8 +1,7 @@
 {
-  "edition": "Laethiel",
   "characters": [
     {
-      "name": "Aeromancer",
+      "name": "aeromancer",
       "characterClass": "savvas",
       "edition": "Laethiel",
 	  "color": "#49717c",
@@ -275,7 +274,7 @@
 	  ]
 	},
 	    {
-      "name": "Root Whisperer",
+      "name": "rootwhisperer",
       "characterClass": "orchid",
       "edition": "Laethiel",
 	  "color": "#9cc36a",
@@ -322,5 +321,25 @@
       "availableSummons": [],
       "perks": []
 	}
-	]
+	],
+	"label": {
+    "en": {
+      "edition": {
+        "Laethiel": "Laethiel"
+      },
+      "character": {
+        "aeromancer": "Aeromancer",
+        "rootwhisperer": "Root Whisperer"
+      }
+    },
+    "fr": {
+      "edition": {
+        "Laethiel": "Laethiel"
+      },
+      "character": {
+        "aeromancer": "Aeromancer",
+        "rootwhisperer": "Root Whisperer"
+      }
+    }
+  }
 }
